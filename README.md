@@ -2,3 +2,9 @@
 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=XiaoHei14&show_icons=true&theme=radical)
+
+-----------
+
+我是自學程式語言
+我是初學者
+
