@@ -1,7 +1,7 @@
 # 𝗛𝗲𝗹𝗹𝗼 𝗜'𝗺 𝗫𝗶𝗮𝗼 𝗛𝗲𝗶
 [![](https://img.shields.io/badge/-@XiaoHei14-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/wngynho2)
 [![](https://img.shields.io/badge/-@XiaoHei14-%23181717?style=flat-square&logo=github)](https://github.com/XiaoHei14)
-[![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=xlbd.me&url=https%3A%2F%2Fxlbd.me)](https://xiaohei14.github.io/)
+[![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=xlbd.me&url=https%3A%2F%2Fxlbd.me)](xiaoheiweb.xyz)
 
 # 𝗜 𝗰𝗮𝗻 𝘁𝗵𝗶𝘀 𝗰𝗼𝗱𝗲
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
