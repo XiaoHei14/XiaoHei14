@@ -22,8 +22,6 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=XiaoHei14)](https://github.com/ryo-ma/github-profile-trophy)
 -----------
 
-我是自學程式語言
-
-我是初學者
+# Kill Myself
 
 -----------
