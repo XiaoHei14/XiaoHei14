@@ -4,16 +4,16 @@
 [![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=xiaoheiweb.moe&url=https%3A%2F%2Fxlbd.me)](https://xiaoheiweb.moe)
 
 # 𝗜 𝗰𝗮𝗻 𝘁𝗵𝗶𝘀 𝗰𝗼𝗱𝗲
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=flat-square&logo=vuedotjs)
-![Nuxt](https://img.shields.io/badge/-Nuxt.js-%23282C34?style=flat-square&logo=nuxtdotjs)
-![React.js](https://img.shields.io/badge/-React.js-%23282C34?style=flat-square&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-%23000000?style=flat-square&logo=nextdotjs)
-![php](https://img.shields.io/badge/-php-%23000000?style=flat-square&logo=php)
-![Mariadb](https://img.shields.io/badge/-Mariadb-%23E44D27?style=flat-square&logo=Mariadb&logoColor=ffffff)
+![HTML5](https://img.shields.io/badge/HTML5-E44D27?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1C?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
+![React.js](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 
 # 𝗦𝘁𝗮𝘁𝘀
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=XiaoHei14)](https://github.com/anuraghazra/github-readme-stats)
