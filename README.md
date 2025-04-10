@@ -13,6 +13,7 @@
 ![React.js](https://img.shields.io/badge/-React.js-%23282C34?style=flat-square&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-%23000000?style=flat-square&logo=nextdotjs)
 ![php](https://img.shields.io/badge/-php-%23000000?style=flat-square&logo=php)
+![Mariadb](https://img.shields.io/badge/-Mariadb-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 
 # 𝗦𝘁𝗮𝘁𝘀
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=XiaoHei14)](https://github.com/anuraghazra/github-readme-stats)
