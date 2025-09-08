@@ -28,17 +28,8 @@ Passionate about secure and scalable applications. Skilled in React, Node.js, an
 | VSCode |
 | Git |
 | Postman |
-| Docker |
-
----
-
-## 📫 Connect with me
-
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/daohuirealm)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/daohuirealm)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daohui/)
-
-
+| Burp |
+| Kali |
 ---
 
 > i love chaewon 💜
