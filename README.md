@@ -11,9 +11,6 @@ Passionate about secure and scalable applications. Skilled in React, Node.js, an
 [![wakatime](https://wakatime.com/badge/user/e21554f5-3b7b-4ad4-aed2-fc418bbf8a41.svg)](https://wakatime.com/@e21554f5-3b7b-4ad4-aed2-fc418bbf8a41)
 [![My Bugcrowd Profile](https://img.shields.io/badge/Bugcrowd-Profile-orange)](https://bugcrowd.com/h/DaoHui)
 
-# Bugcrowd Stat
-
-![Bugcrowd Latest Severity](https://github-readme-stats-psi-liart-53.vercel.app/api/bugcrowd-severity)
 
 --
 
