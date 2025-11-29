@@ -8,10 +8,12 @@
 Full Stack Developer & Web Penetration Tester.  
 Passionate about secure and scalable applications. Skilled in React, Node.js, and cloud platforms, bridging development and penetration testing to create resilient solutions.
 
-[![wakatime](https://wakatime.com/badge/user/e21554f5-3b7b-4ad4-aed2-fc418bbf8a41.svg)](https://wakatime.com/@e21554f5-3b7b-4ad4-aed2-fc418bbf8a41)
-[![My Bugcrowd Profile](https://img.shields.io/badge/Bugcrowd-Profile-orange)](https://bugcrowd.com/h/DaoHui)
+
 [![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=XiaoHei14)](https://github.com/XiaoHei14)
 
+
+[![wakatime](https://wakatime.com/badge/user/e21554f5-3b7b-4ad4-aed2-fc418bbf8a41.svg)](https://wakatime.com/@e21554f5-3b7b-4ad4-aed2-fc418bbf8a41)
+[![My Bugcrowd Profile](https://img.shields.io/badge/Bugcrowd-Profile-orange)](https://bugcrowd.com/h/DaoHui)
 --
 
 ## 🛠 My Skills
