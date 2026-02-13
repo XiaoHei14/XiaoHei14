@@ -1,6 +1,22 @@
 I'm a pentester and a high school stu.
 
-Very familiar with Python, C#, Go, TypeScript, Javascript, HTML, and CSS, so I really enjoy Bug Bounty
+<details>
+    <summary><strong>Skill</strong></summary>
+  
+  Python<br/>
+  C#<br/>
+  Go <br/>
+  TypeScript<br/>
+  Javascript<br/>
+  HTML<br/>
+  CSS
+</details>
+
+<details>
+    <summary><strong>Not yet</strong></summary>
+
+  GG U Found
+</details>
 
 # Link
 
