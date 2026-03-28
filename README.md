@@ -1,6 +1,4 @@
 I'm a pentester and a high school stu.
-![snake](https://github.com/CX330Blake/CX330Blake/blob/output/github-contribution-grid-snake.svg)
-
 
 <details>
     <summary><strong>Skill</strong></summary>
