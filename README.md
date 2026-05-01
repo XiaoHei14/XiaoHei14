@@ -1,22 +1,18 @@
-I'm a pentester and a high school stu.
+I'm a Security Researcher | Full-stack Developer
 
 <details>
     <summary><strong>Skill</strong></summary>
+    
+- **Languages:** 
+  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) 
+  ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+  ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+- **Security Tools:** `Burp Suite`, `Pwntools`, `GDB`, `Nmap`, `Metasploit`
   
-  Python<br/>
-  C#<br/>
-  Go <br/>
-  TypeScript<br/>
-  Javascript<br/>
-  HTML<br/>
-  CSS
 </details>
 
-<details>
-    <summary><strong>Not yet</strong></summary>
 
-  GG U Found
-</details>
 
 # Link
 
