@@ -1,4 +1,4 @@
-I'm a Security Researcher | Full-stack Developer
+I'm a Security Pentester | Full-stack Developer
 
 <details>
     <summary><strong>Skill</strong></summary>
