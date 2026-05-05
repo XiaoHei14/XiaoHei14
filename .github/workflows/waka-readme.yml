@@ -20,7 +20,7 @@ jobs:
           API_BASE_URL: https://wakatime.com/api # optional
           REPOSITORY: XiaoHei14/XiaoHei14 # optional
           ### content
-          BLOCKS: █ # optional
+          BLOCKS: ⣀⣄⣤⣦⣶⣷⣿ # optional
           CODE_LANG: rust # optional
           TIME_RANGE: all_time # optional
           LANG_COUNT: 10 # optional
