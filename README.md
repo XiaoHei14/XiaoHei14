@@ -1,4 +1,5 @@
-I'm a Security Pentester | Full-stack Developer
+cloud security 
+pentester 
 
 <details>
     <summary><strong>Skill</strong></summary>
